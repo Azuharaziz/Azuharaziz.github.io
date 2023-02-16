@@ -7,7 +7,7 @@
   width: 100%;
 }
 .four_zero_four_bg {
-  background-image: 404.gif;
+  background-image: url(404.gif);
   height: 400px;
   background-position: center;
 }
